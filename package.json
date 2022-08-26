@@ -1,0 +1,29 @@
+{
+  "name": "lemoncode-modulo-9-laboratorio-llamadas-asincronas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "rick": "parcel RickAndMorti/index.html",
+    "breaking": "parcel BreakingBad/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SkayDks/Lemoncode-Modulo-9-Laboratorio-Llamadas-Asincronas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SkayDks/Lemoncode-Modulo-9-Laboratorio-Llamadas-Asincronas/issues"
+  },
+  "homepage": "https://github.com/SkayDks/Lemoncode-Modulo-9-Laboratorio-Llamadas-Asincronas#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "devDependencies": {
+    "buffer": "^6.0.3",
+    "process": "^0.11.10"
+  }
+}
